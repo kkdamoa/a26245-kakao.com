@@ -1,0 +1,9 @@
+{
+    "server":"34.64.189.76",
+    "server_port":16978,
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "password":"Nsy5l8wxxzHg4CXPKwEw6S",
+    "timeout":300,
+    "method":"chacha20-ietf-poly1305"
+}

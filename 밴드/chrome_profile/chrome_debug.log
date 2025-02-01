@@ -1,5 +1,69 @@
-[3380:26404:0115/014335.133:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.265 (not a warning)
-[3380:26404:0115/014335.310:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[30656:16044:0115/014335.825:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[26852:29024:0115/014338.804:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
-[26852:29024:0115/014338.804:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[4862:4884:0201/212908.526136:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.526306:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.526319:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.526329:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.526346:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4862:0201/212908.546565:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[4862:4884:0201/212908.546539:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4898:4898:0201/212908.549901:WARNING:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
+[4898:4898:0201/212908.550663:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4898:4898:0201/212908.551439:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[4862:4884:0201/212908.563589:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.563615:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4880:0201/212908.577300:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.590288:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212908.590331:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212908.622107:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4862:0201/212908.628555:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4880:0201/212908.628624:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4958:0201/212908.636232:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4862:4958:0201/212908.636254:WARNING:property.cc(149)] DaemonVersion: GetAndBlock: failed.
+[4862:4958:0201/212908.636474:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4862:4958:0201/212908.636708:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4862:4862:0201/212908.638843:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4880:0201/212908.638913:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212908.642434:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4880:0201/212908.642932:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212908.645016:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4881:0201/212908.645075:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212908.648694:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4862:4862:0201/212908.648714:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[4900:4929:0201/212908.649306:ERROR:simple_version_upgrade.cc(166)] Disk cache backend fake index file has wrong magic number.
+[4900:4929:0201/212908.661629:ERROR:simple_backend_impl.cc(747)] Simple Cache Backend: wrong file structure on disk: 3 path: /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Cache/Cache_Data
+[4900:4930:0201/212913.747771:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 1
+[4900:4930:0201/212913.748062:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 3
+[4862:4862:0201/212914.618911:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://auth.band.us/email_login/password?login_type= (0)
+[4862:4884:0201/212918.607418:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.607458:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.608156:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.608189:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212918.806067:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[4862:4884:0201/212918.806452:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.806475:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212918.857699:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[4862:4884:0201/212918.858090:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.858131:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212918.894899:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:265059
+[4862:4884:0201/212918.895172:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.895206:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212918.916956:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5184
+[4862:4884:0201/212918.917262:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212918.917285:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212919.004887:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[4862:4884:0201/212919.005393:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212919.005415:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212919.137082:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747170
+[4862:4884:0201/212919.137858:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212919.137915:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212919.301301:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45141
+[4862:4884:0201/212919.301605:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4884:0201/212919.301655:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4862:4862:0201/212919.598967:INFO:CONSOLE(2)] "sendNeloLog:  [object Object]", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4862:4862:0201/212919.601790:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4862:4862:0201/212919.770844:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[4862:4862:0201/212919.799806:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
+[4862:4862:0201/212925.370573:INFO:CONSOLE(2)] "sendNeloLog:  [object Object]", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4862:4862:0201/212925.371905:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4862:4862:0201/212939.641570:INFO:CONSOLE(2)] "Uncaught TypeError: Cannot read properties of null (reading 'type')", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/ff1609e28320637daa14.chunk.js (2)
+[4862:4862:0201/213208.577672:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: 
+[4862:4862:0201/213443.345362:INFO:CONSOLE(2)] "sendNeloLog:  [object Object]", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)

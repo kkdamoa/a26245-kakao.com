@@ -1,3 +1,3 @@
-2025/02/02-06:25:07.761 1f0c Reusing MANIFEST c:\Users\com\Desktop\밴드 백업\백업\_1.일단됨,크롬 폴더는 따로 커밋해야함\밴드\chrome_profile\Default\Service Worker\Database/MANIFEST-000001
-2025/02/02-06:25:07.777 1f0c Recovering log #3
-2025/02/02-06:25:07.778 1f0c Reusing old log c:\Users\com\Desktop\밴드 백업\백업\_1.일단됨,크롬 폴더는 따로 커밋해야함\밴드\chrome_profile\Default\Service Worker\Database/000003.log 
+2025/02/01-21:29:08.564 1311 Reusing MANIFEST /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Service Worker/Database/MANIFEST-000001
+2025/02/01-21:29:08.565 1311 Recovering log #3
+2025/02/01-21:29:08.566 1311 Reusing old log /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Service Worker/Database/000003.log 

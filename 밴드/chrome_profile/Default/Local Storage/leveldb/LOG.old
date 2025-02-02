@@ -1,3 +1,6 @@
-2025/02/01-22:08:02.774 132d Reusing MANIFEST /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/01-22:08:02.779 132d Recovering log #9
-2025/02/01-22:08:02.780 132d Reusing old log /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/000009.log 
+2025/02/02-00:45:04.077 1348 Reusing MANIFEST /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/02-00:45:04.083 1348 Recovering log #9
+2025/02/02-00:45:04.084 1348 Reusing old log /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/000009.log 
+2025/02/02-00:47:10.935 1348 Level-0 table #13: started
+2025/02/02-00:47:10.938 1348 Level-0 table #13: 8885 bytes OK
+2025/02/02-00:47:10.940 1348 Delete type=0 #9

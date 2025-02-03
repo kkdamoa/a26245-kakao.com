@@ -1,36 +1,35 @@
-[4875:4897:0203/032634.803105:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.803315:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.803396:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.803412:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.803422:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4875:0203/032634.820350:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[4875:4897:0203/032634.820757:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4910:4910:0203/032634.825012:WARNING:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
-[4910:4910:0203/032634.826415:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
-[4910:4910:0203/032634.827287:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[4875:4897:0203/032634.836843:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.836873:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4893:0203/032634.855463:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.863644:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4897:0203/032634.863676:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4875:0203/032634.895666:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4875:0203/032634.904588:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4894:0203/032634.904748:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4972:0203/032634.911422:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-[4875:4972:0203/032634.911444:WARNING:property.cc(149)] DaemonVersion: GetAndBlock: failed.
-[4875:4972:0203/032634.911729:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-[4875:4972:0203/032634.911944:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-[4875:4875:0203/032634.914662:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4906:0203/032634.914885:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4875:0203/032634.919581:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4894:0203/032634.919667:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4875:0203/032634.921660:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4895:0203/032634.921886:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[4875:4875:0203/032634.922188:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[4875:4875:0203/032634.922198:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
-[4912:4937:0203/032639.188688:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 1
-[4875:4875:0203/032639.955494:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://auth.band.us/email_login/password?login_type= (0)
-[4875:4875:0203/032644.955663:INFO:CONSOLE(2)] "sendNeloLog:  [object Object]", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
-[4875:4875:0203/032644.957526:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
-[4875:4875:0203/032650.021561:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
-[4875:4875:0203/032934.854510:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: 
+[4963:4985:0203/063136.705967:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063136.706135:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063136.706164:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063136.706296:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063136.706320:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4998:4998:0203/063136.725985:WARNING:gpu_memory_buffer_support_x11.cc(49)] dri3 extension not supported.
+[4998:4998:0203/063136.726709:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4998:4998:0203/063136.727451:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[4963:4985:0203/063136.917080:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4963:0203/063136.917185:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[4963:4985:0203/063136.928527:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063136.928553:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4981:0203/063136.952072:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063137.006774:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4985:0203/063137.006802:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4963:0203/063137.125800:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4963:0203/063137.132337:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4982:0203/063137.132443:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:5053:0203/063137.139473:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4963:5053:0203/063137.139500:WARNING:property.cc(149)] DaemonVersion: GetAndBlock: failed.
+[4963:5053:0203/063137.139761:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4963:5053:0203/063137.140004:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4963:4963:0203/063137.142985:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4982:0203/063137.143056:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4963:0203/063137.147079:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4982:0203/063137.147335:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4963:0203/063137.148460:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4990:0203/063137.149006:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4963:4963:0203/063137.158580:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4963:4963:0203/063137.158606:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
+[4963:4963:0203/063142.658999:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://auth.band.us/email_login/password?login_type= (0)
+[4963:4963:0203/063146.591140:INFO:CONSOLE(2)] "sendNeloLog:  [object Object]", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4963:4963:0203/063146.593011:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4963:4963:0203/063152.166599:INFO:CONSOLE(2)] "Deprecation warning: moment construction falls back to js Date. This is discouraged and will be removed in upcoming major release. Please refer to https://github.com/moment/moment/issues/1407 for more info.", source: https://ssl.pstatic.net/cmstatic/webclient/script/20250123145542/boot.bundle.js?_=20250123145542 (2)
+[4963:4963:0203/063436.945338:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: 

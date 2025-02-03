@@ -1,3 +1,14 @@
-2025/02/02-16:10:05.311 15ad Reusing MANIFEST /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/02-16:10:05.317 15ad Recovering log #12
-2025/02/02-16:10:05.317 15ad Reusing old log /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/000012.log 
+2025/02/02-21:18:57.383 135c Reusing MANIFEST /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/02-21:18:57.388 135c Recovering log #12
+2025/02/02-21:18:57.389 135c Reusing old log /home/runner/work/a26245-kakao.com/a26245-kakao.com/밴드/chrome_profile/Default/Local Storage/leveldb/000012.log 
+2025/02/02-21:20:04.701 135e Level-0 table #16: started
+2025/02/02-21:20:04.703 135e Level-0 table #16: 9115 bytes OK
+2025/02/02-21:20:04.704 135e Delete type=0 #12
+2025/02/02-21:20:04.704 135e Compacting 4@0 + 0@1 files
+2025/02/02-21:20:04.706 135e Generated table #17@0: 18 keys, 2702 bytes
+2025/02/02-21:20:04.706 135e Compacted 4@0 + 0@1 files => 2702 bytes
+2025/02/02-21:20:04.706 135e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/02-21:20:04.707 135e Delete type=2 #13
+2025/02/02-21:20:04.707 135e Delete type=2 #16
+2025/02/02-21:20:04.707 135e Delete type=2 #10
+2025/02/02-21:20:04.707 135e Delete type=2 #7
